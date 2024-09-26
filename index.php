@@ -285,8 +285,8 @@
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Designed and developed a comprehensive payslip
                                     management system for employers, with a userfriendly interface for employees to access and view
-                                    their payslips Explore the project at <br>
-                                    <a href="https://salary-sync.com" target="_blank">salary-sync.com</a>
+                                    their payslips<br>
+                
                                 </p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
@@ -348,8 +348,8 @@
                                     capabilities, for seamless item insertion and
                                     withdrawal. This system streamlines inventory
                                     management processes, ensuring accuracy and
-                                    efficiency. Visit the project at <br>
-                                    <a href="https://jrpsolutions.online/swims/" target="_blank">swims</a>
+                                    efficiency.<br>
+                          
                                 </p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
